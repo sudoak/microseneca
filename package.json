@@ -1,0 +1,16 @@
+{
+  "name": "mymicrotest",
+  "version": "0.0.0",
+  "description": "Microservices using SENECA",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["seneca","micro services"],
+  "author": "sudoak",
+  "license": "ISC",
+  "dependencies": {
+    "seneca": "^3.7.0"
+  }
+}
